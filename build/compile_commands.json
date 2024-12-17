@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Asimov/Desktop/HLRA Praktikum Sachen/HLRA_Task_2/HLRA_Task_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -fopenmp -o CMakeFiles\\game_of_life.dir\\Main.cpp.obj -c \"C:\\Users\\Asimov\\Desktop\\HLRA Praktikum Sachen\\HLRA_Task_2\\HLRA_Task_2\\Main.cpp\"",
+  "file": "C:/Users/Asimov/Desktop/HLRA Praktikum Sachen/HLRA_Task_2/HLRA_Task_2/Main.cpp",
+  "output": "CMakeFiles/game_of_life.dir/Main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Asimov/Desktop/HLRA Praktikum Sachen/HLRA_Task_2/HLRA_Task_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -fopenmp -o CMakeFiles\\game_of_life.dir\\CLI.cpp.obj -c \"C:\\Users\\Asimov\\Desktop\\HLRA Praktikum Sachen\\HLRA_Task_2\\HLRA_Task_2\\CLI.cpp\"",
+  "file": "C:/Users/Asimov/Desktop/HLRA Praktikum Sachen/HLRA_Task_2/HLRA_Task_2/CLI.cpp",
+  "output": "CMakeFiles/game_of_life.dir/CLI.cpp.obj"
+},
+{
+  "directory": "C:/Users/Asimov/Desktop/HLRA Praktikum Sachen/HLRA_Task_2/HLRA_Task_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -fopenmp -o CMakeFiles\\game_of_life.dir\\Grid.cpp.obj -c \"C:\\Users\\Asimov\\Desktop\\HLRA Praktikum Sachen\\HLRA_Task_2\\HLRA_Task_2\\Grid.cpp\"",
+  "file": "C:/Users/Asimov/Desktop/HLRA Praktikum Sachen/HLRA_Task_2/HLRA_Task_2/Grid.cpp",
+  "output": "CMakeFiles/game_of_life.dir/Grid.cpp.obj"
+}
+]
